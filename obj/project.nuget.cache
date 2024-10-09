@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Hhng46Y9xU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lars.kleiven\\source\\repos\\lektestwebapi\\lektestwebapi\\lektestwebapi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lars.kleiven\\.nuget\\packages\\fsharp.core\\8.0.401\\fsharp.core.8.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
