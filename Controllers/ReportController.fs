@@ -16,4 +16,4 @@ type ReportController (logger : ILogger<ReportController>) =
     [<HttpGet>]
     member _.Get() =
         { Date = DateTime.Now
-          ReportText = "Test"}
+          ReportText = "Test is the best"}
